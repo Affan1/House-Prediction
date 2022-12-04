@@ -1,6 +1,8 @@
 # HM Land Registry - Residential Property Price Paid Data
 ## England and Wales, 1995 to 2019
 
+link to kaggle dataset: https://www.kaggle.com/datasets/hm-land-registry/uk-housing-prices-paid
+
 link to source: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 
 link to license: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
